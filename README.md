@@ -3,7 +3,7 @@
 This is a tutorial for migrating serial data from Arduino IDE to Google Sheets or Excel using the CoolTerm application.  
   
 ## Before we get started:  
-1. Locate, download and install the appropriate version of [CoolTerm](https://freeware.the-meiers.org/),   an application that acts like an old school "terminal" interface.  
+1. Locate, download and install the appropriate version of [CoolTerm](https://freeware.the-meiers.org/), an application that acts like a  "terminal" interface.  
 2. Be sure your Arduino IDE code is writing data to the Serial port in a format suitable for export, with each data value separated by a comma with no spaces. 
 
 
