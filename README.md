@@ -26,9 +26,9 @@ Now, check to be sure you have a .txt file titled "CoolTerm Capture..." wherever
 2. In the Import pop-up window...click the Upload menu on the top right  
 3. Drag or locate your .txt file, and click *Open*  
 4. In the new Import pop-up window:
-  - Select *Replace Spreadsheet*
-  - Select *Comma* as the Separator Type
-  - Click *OK*  
+    - Select *Replace Spreadsheet*
+    - Select *Comma* as the Separator Type
+    - Click *OK*  
 
 Once the file loads, your data will populate the sheet in columns.
 
