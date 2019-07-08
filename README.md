@@ -4,7 +4,7 @@ This is a tutorial for migrating serial data from Arduino IDE to Google Sheets u
   
 ## Before getting started:  
 1. Locate, download and install the appropriate version of [CoolTerm](https://freeware.the-meiers.org/), an application that acts like a  "terminal" interface.  
-2. Be sure your Arduino IDE code is writing data to the serial port in a format suitable for export, with each data value separated by a comma with no spaces. 
+2. Be sure your circuit is working and the Arduino IDE code is writing data to the serial port in a format suitable for export, with each data value separated by a comma with no spaces. 
 
 
 ## Collecting Serial Data for Export:  
